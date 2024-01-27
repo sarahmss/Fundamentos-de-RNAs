@@ -1,5 +1,5 @@
 all:
-	mkdir.content
+	mkdir ./content
 	mkdir ./content/models/
 	mkdir ./content/results/
 
