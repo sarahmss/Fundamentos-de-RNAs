@@ -11,4 +11,3 @@ fclean:
 clean:
 	rm -rf ./content/models/*
 	rm -rf ./content/results/*
-	rm -rf ./content/dataset/*
